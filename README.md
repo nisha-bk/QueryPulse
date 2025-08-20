@@ -4,22 +4,22 @@ QueryPulse is an iOS survey application built with Swift. It provides a smooth a
 
 Features
 
-Easy survey navigation
+ Easy survey navigation
 
-Real-time data syncing
+ Real-time data syncing
 
-Simple and responsive design
+ Simple and responsive design
 
 
 Tech Stack
 
-Swift
+ Swift
 
-Xcode
+ Xcode
 
-SQLite / GRDB
+ SQLite / GRDB
 
-REST APIs
+ REST APIs
 
 
 Getting Started
